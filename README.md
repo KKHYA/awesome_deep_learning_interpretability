@@ -1,4 +1,4 @@
-# awesome_deep_learning_interpretability
+# Papers about XAI
 
 |Year|Publication|Paper|Citation|code|
 |:---:|:---:|:---:|:---:|:---:|
