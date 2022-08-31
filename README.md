@@ -1,11 +1,4 @@
 # awesome_deep_learning_interpretability
-深度学习近年来关于模型解释性的相关论文。
-
-按引用次数排序可见[引用排序](./sort_cite.md)
-
-159篇论文pdf(有2篇需要上scihub找)上传到[腾讯微云](https://share.weiyun.com/5ddB0EQ)。
-
-不定期更新。
 
 |Year|Publication|Paper|Citation|code|
 |:---:|:---:|:---:|:---:|:---:|
